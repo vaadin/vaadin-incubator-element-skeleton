@@ -1,0 +1,3 @@
+window.VaadinIncubatorElementSuites = [
+  'sample.html',
+];
