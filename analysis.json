@@ -8,47 +8,52 @@
       "sourceRange": {
         "file": "src/vaadin-incubator-element.html",
         "start": {
-          "line": 45,
+          "line": 44,
           "column": 6
         },
         "end": {
-          "line": 45,
+          "line": 44,
           "column": 68
         }
-      }
-    }
-  ],
-  "elements": [
-    {
-      "description": "",
-      "summary": "",
-      "path": "src/vaadin-incubator-element.html",
-      "properties": [],
-      "methods": [],
-      "staticMethods": [],
-      "demos": [],
-      "metadata": {},
-      "sourceRange": {
-        "start": {
-          "line": 34,
-          "column": 6
-        },
-        "end": {
-          "line": 38,
-          "column": 7
+      },
+      "elements": [
+        {
+          "description": "`<vaadin-incubator-element>` is a template for incubator components.\n\n```\n<vaadin-incubator-element>\n</vaadin-incubator-element>\n```",
+          "summary": "",
+          "path": "src/vaadin-incubator-element.html",
+          "properties": [],
+          "methods": [],
+          "staticMethods": [],
+          "demos": [
+            {
+              "url": "demo/index.html",
+              "description": ""
+            }
+          ],
+          "metadata": {},
+          "sourceRange": {
+            "start": {
+              "line": 33,
+              "column": 6
+            },
+            "end": {
+              "line": 37,
+              "column": 7
+            }
+          },
+          "privacy": "public",
+          "superclass": "HTMLElement",
+          "name": "Vaadin.VaadinIncubatorElement",
+          "attributes": [],
+          "events": [],
+          "styling": {
+            "cssVariables": [],
+            "selectors": []
+          },
+          "slots": [],
+          "tagname": "vaadin-incubator-element"
         }
-      },
-      "privacy": "public",
-      "superclass": "HTMLElement",
-      "name": "VaadinIncubatorElement",
-      "attributes": [],
-      "events": [],
-      "styling": {
-        "cssVariables": [],
-        "selectors": []
-      },
-      "slots": [],
-      "tagname": "vaadin-incubator-element"
+      ]
     }
   ]
 }
