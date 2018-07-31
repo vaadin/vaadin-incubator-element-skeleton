@@ -17,15 +17,15 @@
   </test-fixture>
 
   <script>
-    describe('sample test', function() {
+    describe('sample test', () => {
       let element;
 
       beforeEach(() => {
         element = fixture('default');
       });
 
-      it('should have the proper name', () => {
-        expect(element.is).to.be.eq('vaadin-incubator-element');
+      it('should have the proper instance', () => {
+        expect(element instanceof Vaadin.VaadinIncubatorElement).to.be.true;
       });
     });
   </script>
