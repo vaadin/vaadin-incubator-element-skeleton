@@ -19,7 +19,7 @@ See <a href="https://vaadin.com/license/cval-3">the website</a> for the complete
   </template>
 
   <script>
-    {
+    (function() {
       /**
        * `<vaadin-incubator-element>` is a template for incubator components.
        *
@@ -47,6 +47,6 @@ See <a href="https://vaadin.com/license/cval-3">the website</a> for the complete
       if (window.Vaadin.runIfDevelopmentMode) {
         window.Vaadin.runIfDevelopmentMode('vaadin-license-checker', VaadinIncubatorElement);
       }
-    }
+    })();
   </script>
 </dom-module>
