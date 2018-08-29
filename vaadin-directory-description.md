@@ -3,9 +3,9 @@
 
 # &lt;vaadin-incubator-element&gt;
 
-[&lt;vaadin-incubator-element&gt;](https://vaadin.com/components/vaadin-incubator-element) is a Web Component providing an easy way to ask the user to confirm a choice, part of the [Vaadin components](https://vaadin.com/components).
+[&lt;vaadin-incubator-element&gt;](https://vaadin.com/directory/component/vaadinincubator-element) is a Web Component providing an easy way to ask the user to confirm a choice, part of the [Vaadin components](https://vaadin.com/components).
 
-[<img src="https://raw.githubusercontent.com/vaadin/vaadin-incubator-element/master/screenshot.png" width="200" alt="Screenshot of vaadin-incubator-element">](https://vaadin.com/components/vaadin-incubator-element)
+[<img src="https://raw.githubusercontent.com/vaadin/vaadin-incubator-element/master/screenshot.png" width="200" alt="Screenshot of vaadin-incubator-element">](https://vaadin.com/directory/component/vaadinincubator-element)
 
 ## Example Usage
 
