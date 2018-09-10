@@ -3,12 +3,12 @@
 
 # &lt;vaadin-incubator-element&gt;
 
-[Live Demo ↗](https://vaadin.com/components/vaadin-incubator-element/html-examples)
+[Live Demo ↗](https://vaadin.com/directory/component/vaadinincubator-element/html-examples)
 |
-[API documentation ↗](https://vaadin.com/components/vaadin-incubator-element/html-api)
+[API documentation ↗](https://vaadin.com/directory/component/vaadinincubator-element/html-api)
 
 
-[&lt;vaadin-incubator-element&gt;](https://vaadin.com/components/vaadin-incubator-element) is a Web Component providing an easy way to ask the user to confirm a choice, part of the [Vaadin components](https://vaadin.com/components).
+[&lt;vaadin-incubator-element&gt;](https://vaadin.com/directory/component/vaadinincubator-element) is a Web Component providing an easy way to ask the user to confirm a choice, part of the [Vaadin components](https://vaadin.com/components).
 
 ```html
   <vaadin-incubator-element header="Unsaved changes" confirm-text="Save" on-confirm="save"
@@ -17,7 +17,7 @@
   </vaadin-incubator-element>
 ```
 
-[<img src="https://raw.githubusercontent.com/vaadin/vaadin-incubator-element/master/screenshot.png" width="200" alt="Screenshot of vaadin-incubator-element">](https://vaadin.com/components/vaadin-incubator-element)
+[<img src="https://raw.githubusercontent.com/vaadin/vaadin-incubator-element/master/screenshot.png" width="200" alt="Screenshot of vaadin-incubator-element">](https://vaadin.com/directory/component/vaadinincubator-element)
 
 
 ## Installation
