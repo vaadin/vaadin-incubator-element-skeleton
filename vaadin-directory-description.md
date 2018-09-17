@@ -1,5 +1,6 @@
-[![Available in Vaadin_Directory](https://img.shields.io/vaadin-directory/v/vaadinvaadin-incubator-element.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
 [![Stars in Vaadin_Directory](https://img.shields.io/vaadin-directory/stars/vaadinvaadin-incubator-element.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
+[![Latest Version](https://img.shields.io/vaadin-directory/v/vaadinvaadin-incubator-element.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
 
 # &lt;vaadin-incubator-element&gt;
 
