@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vaadin/vaadin-incubator-element.svg?branch=master)](https://travis-ci.org/vaadin/vaadin-incubator-element)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vaadin/web-components?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
 [![Stars in Vaadin_Directory](https://img.shields.io/vaadin-directory/stars/vaadinvaadin-incubator-element.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
 [![Latest Version](https://img.shields.io/vaadin-directory/v/vaadinvaadin-incubator-element.svg)](https://vaadin.com/directory/component/vaadinvaadin-incubator-element)
